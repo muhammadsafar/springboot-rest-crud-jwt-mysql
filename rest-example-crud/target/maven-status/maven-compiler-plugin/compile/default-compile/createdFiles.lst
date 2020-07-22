@@ -1,0 +1,4 @@
+com\baharuddinfamily\restexamplecrud\model\Tutorial.class
+com\baharuddinfamily\restexamplecrud\repos\TutorialRepository.class
+com\baharuddinfamily\restexamplecrud\RestExampleCrudApplication.class
+com\baharuddinfamily\restexamplecrud\controller\TutorialController.class
