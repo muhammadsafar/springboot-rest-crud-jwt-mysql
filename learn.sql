@@ -78,8 +78,8 @@ CREATE TABLE `tutorials` (
 
 INSERT INTO `tutorials` (`id`, `title`, `description`, `published`) VALUES
 (2, 'Para Pejuang', 'Untukmu yang bingung ngapai hidup ini', 0),
-(3, 'ntyasku', 'ok taon depan insyallah', 1),
-(7, 'murojaah harus', 'mutqin tambah go 25 juz ', 0);
+(3, 'nasku', 'ok taon depan insyallah', 1),
+(7, 'ok harus', 'mutqin ta ', 0);
 
 -- --------------------------------------------------------
 
